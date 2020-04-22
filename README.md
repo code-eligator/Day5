@@ -1,2 +1,2 @@
 # Day05
-Data is in homework branch.
+Thank you for coming!
